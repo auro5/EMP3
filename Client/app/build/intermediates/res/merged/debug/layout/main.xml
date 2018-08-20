@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/widget31"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText
+        android:id="@+id/EditTextSongURL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:height="100dp"
+        android:lines="3"
+        android:maxLines="3"
+        android:minLines="1"
+        android:editable="false">
+
+    </EditText>
+
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/music"
+        android:id="@+id/musicimage"
+        android:layout_marginBottom="57dp"
+        android:layout_above="@+id/SeekBarTestPlay"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0:00"
+        android:id="@+id/starttime"
+        android:layout_below="@+id/SeekBarTestPlay"
+        android:layout_marginTop="-20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0:00"
+        android:id="@+id/endtime"
+        android:layout_below="@+id/SeekBarTestPlay"
+        android:gravity="right"
+        android:layout_marginTop="-20dp"
+        />
+    <ImageButton
+        android:id="@+id/ButtonTestPlayPause"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:contentDescription="TestPlayPause"
+        android:onClick="onClick"
+        android:src="@drawable/button_play"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#FAFAFA"
+        android:layout_marginBottom="10dp"/>
+
+    <SeekBar
+        android:id="@+id/SeekBarTestPlay"
+        style="@android:style/Widget.DeviceDefault.Light.SeekBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_above="@+id/ButtonTestPlayPause"
+        android:layout_marginBottom="30dp"/>
+
+    <Button
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/button_next"
+        android:id="@+id/nxt"
+        android:layout_alignTop="@+id/ButtonTestPlayPause"
+        android:layout_toEndOf="@+id/ButtonTestPlayPause"
+        android:background="@drawable/button_next"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/button_prev"
+        android:id="@+id/prv"
+        android:layout_alignTop="@+id/ButtonTestPlayPause"
+        android:layout_toStartOf="@+id/ButtonTestPlayPause"
+        android:background="@drawable/button_prev"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="5dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_8077a1024338662f00ac47c3f133ebf073941792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_0a05fb7600b10ae182cc52437c03b4d9cb832bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_6284e93423b00a65e337ab4d6f145b06d42a87a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_7eb2c3b7163fc148b71a20e9ea2920710a6531c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurobind\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\pre-dexed\debug\library-1.0.19_e136ddfc035478a3f63aeb702ecccac2f30ebf44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurobind\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_82bc4d41fd735159a4bb0429377b753010ec134a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\work\FetchJSON 3.0 next previous and seekbar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_25db0a090040cac1bf2adfd54d77a9661b914b48.jar" />
+    </item>
+
+</items>
